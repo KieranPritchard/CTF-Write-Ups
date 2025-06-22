@@ -10,6 +10,7 @@ These write-ups are created for educational purposes and to track my progress on
 
 | Room Name | Category | Difficulty | Write-Up |
 |-----------|----------|------------|----------|
+|Light|Database Exploit|Easy|[Click Here](https://github.com/KieranPritchard/CTF-Write-Ups/tree/main/TryHackMe/Light)|
 | _More coming soon..._ | – | – | 🚧 |
 
 ---
