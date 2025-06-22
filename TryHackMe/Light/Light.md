@@ -88,3 +88,12 @@ Before starting the challenge, I was given the machine's IP address, the service
 - Always explore the database structure (information schema) carefully if you have injection access.
 
 # 📷 Screenshots (Optional)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_1.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_2.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_3.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_4.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_5.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_6.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_7.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_8.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_9.png)
