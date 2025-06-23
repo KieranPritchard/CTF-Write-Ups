@@ -31,5 +31,5 @@ These write-ups are for **educational purposes only**. Do not attempt to use any
 
 ## 🔗 TryHackMe Profile
 
-📌 [My TryHackMe Profile](https://tryhackme.com/p/KieranPritchard)
+📌 [My TryHackMe Profile](https://tryhackme.com/p/NightProxy)
 
