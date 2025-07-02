@@ -11,7 +11,8 @@ These write-ups are created for educational purposes and to track my progress on
 | Room Name | Category | Date | Difficulty | Write-Up |
 |-----------|----------|------------|----------|----------|
 |Light|Database Exploit| 16/04/2025 |Easy|[Click Here](https://github.com/KieranPritchard/CTF-Write-Ups/tree/main/TryHackMe/Light)|
-|Basic-Pentesting|Web App| 18/04/2025 |Easy|[Click Here](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Basic-Pentesting/README.md)|
+|Basic Pentesting|Web App| 18/04/2025 |Easy|[Click Here](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Basic-Pentesting/README.md)|
+|Crack The Hash|Password Cracking|18/04/2025|Easy|[Click Here](https://github.com/KieranPritchard/CTF-Write-Ups/tree/main/TryHackMe/Crack-The-Hash/README.md)|
 | _More coming soon..._ | – | – | – | 🚧 |
 
 ---
