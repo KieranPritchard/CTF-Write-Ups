@@ -76,3 +76,10 @@ No flags were provided in this challenge.
 - Importance of knowing hash modes in Hashcat (especially for salted hashes).
 
 # 📷 Screenshots (Optional)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Crack_The_Hash_1.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Crack_The_Hash_2.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Crack_The_Hash_3.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Crack_The_Hash_4.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Crack_The_Hash_5.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Crack_The_Hash_6.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Crack_The_Hash_7.png)
