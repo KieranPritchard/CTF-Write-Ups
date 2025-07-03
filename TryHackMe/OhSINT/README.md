@@ -79,3 +79,8 @@ None
 - OSINT is powerful — and sometimes terrifying.
 
 # 📷 Screenshots (Optional)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/OhSINT/OhSINT_1.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/OhSINT/OhSINT_2.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/OhSINT/OhSINT_3.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/OhSINT/OhSINT_4.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/OhSINT/OhSINT_5.png)
