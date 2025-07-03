@@ -149,3 +149,16 @@ Flag 13: AHH_YOU_FOUND_ME!
 - Steganography isn’t just visual — it can be hidden in noise, pixel values, or metadata.
 
 # 📷 Screenshots (Optional)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_1.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_2.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_3.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_4.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_5.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_6.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_7.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_8.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_9.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_10.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_11.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_12.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3_th3_fl4g_13.png)
