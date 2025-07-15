@@ -79,3 +79,5 @@ Flag 2: THM{pr1v1l3g3_3sc4l4t10n}
 - Importance of recon and methodical enumeration.
 
 # 📷 Screenshots (Optional)
+
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_1.png)
