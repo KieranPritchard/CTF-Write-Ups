@@ -80,4 +80,14 @@ Flag 2: THM{pr1v1l3g3_3sc4l4t10n}
 
 # 📷 Screenshots (Optional)
 
-![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Light/Light_Screenshot_1.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_1.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_2.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_3.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_4.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_5.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_6.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_7.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_8.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_9.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_10.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/RootMe/RootMe_Screenshot_11.png)
