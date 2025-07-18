@@ -21,6 +21,9 @@ These write-ups are created for educational purposes and to track my progress on
 
 - `nmap`,
 - `gobuster`
+- `hydra`
+- `gtfoblins`
+- `exploit-db`
 
 ---
 
