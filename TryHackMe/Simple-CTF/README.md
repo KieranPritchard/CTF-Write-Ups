@@ -80,3 +80,12 @@ W3ll d0n3. You made it!
 - GTFOBins is invaluable for privilege escalation — bookmark it!
 
 # 📷 Screenshots
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Simple_CTF/Simple_CTF_Screenshot_1.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Simple_CTF/Simple_CTF_Screenshot_2.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Simple_CTF/Simple_CTF_Screenshot_3.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Simple_CTF/Simple_CTF_Screenshot_4.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Simple_CTF/Simple_CTF_Screenshot_5.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Simple_CTF/Simple_CTF_Screenshot_6.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Simple_CTF/Simple_CTF_Screenshot_7.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Simple_CTF/Simple_CTF_Screenshot_8.png)
+![Screenshot of the challenge soloution](https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Simple_CTF/Simple_CTF_Screenshot_9.png)
