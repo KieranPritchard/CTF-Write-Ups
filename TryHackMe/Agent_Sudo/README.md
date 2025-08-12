@@ -39,27 +39,22 @@ I first deployed the machine to get the IP address that i then scanned and found
 
 ## 1. First Look Through The Website
 
-- I opened the web page on the ip address and was greeted with a message from a person called: “Agent R”.
-- In response to this i then fired up gobuster on the webpage. There was nothing else i could use
-- I then googled about changing user agents because the question says about redirecting.
-- I then used burp suite to catch a request from the website to rename the user agent header to another agents messages. I detucted that if agent r was called that because the agents were all letters of the alphabet. limiting me to at least 25 tries before i should try something else.
-- I tryed it a couple of times before coming a across a interesting header in the http response pointing to a php page with a possible message.
-- I went to the page and found out that the real name of agent c is chris. it also mentions he needs to change his password.
+I opened the webpage on the provided IP address and was greeted with a message from a person called “Agent R”. In response, I fired up Gobuster on the webpage, as there was nothing else I could use.
+
+I then searched Google for information on changing user agents, as the question mentions redirecting. I used Burp Suite to catch a request from the website and rename the user agent header to another agent’s message. I deduced that “Agent R” was called because the agents were all letters of the alphabet, limiting me to at least 25 tries before I should try something else.
+
+I tried it a couple of times before coming across an interesting header in the HTTP response pointing to a PHP page with a possible message. I went to the page and found out that the real name of Agent C is Chris. It also mentions that he needs to change his password.
 
 ## 2. Finding Credentials:
 
-- i then used hydra with the username chris and the rockyou.txt wordlist to crack the password. after the cracking was completed it revealed the password was crystal.
-- I logged in and downloaded three files from the FTP server.
-- The text file i downloaded made refrence to stegongraphy being used to hide things in another one of the files.
-- This was where i found a hidden zip file in one of the photos. i converted the zip file which was password locked to a format john the ripper could crack. I cracked the password and got the word alien.
-- I got the steg password from the file and converted it from base 64 and got arena51. I used it to extract with steghide agent J’s name and password.
+I used Hydra with the username chris and the rockyou.txt wordlist to crack the password. After cracking, it revealed the password was crystal. I logged in and downloaded three files from the FTP server.
+
+The text file I downloaded referenced steganography being used to hide something in another file. This led me to a hidden zip file in one of the photos. I converted the password-locked zip file to a format John the Ripper could crack. I cracked the password and got the word alien. I obtained the steganography password from the file and converted it from base 64, giving me arena51. I used it to extract J’s name and password from Steghide Agent.
 
 ## 3. Accessing the remote computer
 
-- I used the credentials to sign into SSH. I then went and found the user flag quite easily and noticed a photo file.
-- I used secure copy to transfer the photo to my kali linux virtual machine. I opened it and found it was a photo of the roswell alien autospy.
-- I then listed the sudo privailages and first checked gtfoblins but they didnt have anything i could use. I then found on exploit db a exploit that i could use under: CVE-2019-14287
-- I then used it to get root privalages and then i found the root flag
+I used the credentials to sign into SSH and easily found the user flag. I noticed a photo file. I used secure copy to transfer the photo to my Kali Linux virtual machine. I opened it and found it was a photo of the Roswell alien autospy.
+I listed the sudo privileges and first checked gtfoblins, but they didn’t have anything I could use. I then found an exploit on exploit-db that I could use under CVE-2019-14287. I used the exploit to get root privileges and then found the root flag.
 
 # 🏴 Flag
 
