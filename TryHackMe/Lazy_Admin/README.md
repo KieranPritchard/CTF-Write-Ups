@@ -82,4 +82,26 @@ Root Flag: THM{6637f41d0177b6f37cb20d775124699f}
 - Editing scripts that run with elevated privileges is a simple but powerful privilege escalation method.
 
 # 📷 Images
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_1.png" alt="Screenshot 1">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_2.png" alt="Screenshot 2">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_3.png" alt="Screenshot 3">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_4.png" alt="Screenshot 4">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_5.png" alt="Screenshot 5">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_6.png" alt="Screenshot 6">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_7.png" alt="Screenshot 7">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_8.png" alt="Screenshot 8">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_9.png" alt="Screenshot 9">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_10.png" alt="Screenshot 10">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_11.png" alt="Screenshot 11">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_12.png" alt="Screenshot 12">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_13.png" alt="Screenshot 13">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_14.png" alt="Screenshot 14">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_15.png" alt="Screenshot 15">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_16.png" alt="Screenshot 16">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_17.png" alt="Screenshot 17">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_18.png" alt="Screenshot 18">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_19.png" alt="Screenshot 19">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_20.png" alt="Screenshot 20">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_21.png" alt="Screenshot 21">
+<img src="https://raw.githubusercontent.com/KieranPritchard/CTF-Write-Ups/main/TryHackMe/Lazy_Admin/Lazy_Admin_Screenshot_22.png" alt="Screenshot 22">
 
