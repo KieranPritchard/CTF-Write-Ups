@@ -90,3 +90,22 @@ THM{Y0U_4R3_1337}
 - Even if a CMS login fails, credentials may still be valid for other services.
 
 # 📷 Screenshots
+
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_1.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_2.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_3.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_4.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_5.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_6.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_7.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_8.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_9.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_10.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_11.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_12.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_13.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_14.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_15.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_16.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_17.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anthem/Anthem_Screenshot_18.png">
