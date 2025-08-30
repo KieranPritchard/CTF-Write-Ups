@@ -83,4 +83,15 @@ Step Three — Privilege Escalation
 - When a script is run by a scheduled task, modifying that script can allow command execution (if you have write access).
 - I got stuck initially but referencing a write-up pointed me towards PentestMonkey reverse shells, which are now a go-to resource.
 
-# 📷 Screenshots (Optional)
+# 📷 Screenshots
+
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_1.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_2.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_3.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_4.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_5.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_6.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_7.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_8.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_9.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/TryHackMe/Anonymous/Anoymous_Screenshot_10.png">
