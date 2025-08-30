@@ -2,7 +2,7 @@
 
 - **CTF Name: Try Hack Me**
 - **Challenge Name:** Anonymous
-- **Category: **
+- **Category:** Linux
 - **Points: 210**
 - **Difficulty: Medium**
 
