@@ -13,9 +13,3 @@ Welcome to my repository of Capture The Flag (CTF) challenge write-ups. This col
 Organising these write-ups here allows for easy access and helps present my experience to potential collaborators or employers.
 
 **All challenges covered are part of ethical, legal CTF platforms**
-## Index
-
-- 🔐 [TryHackMe Write-Ups](https://github.com/KieranPritchard/CTF-Write-Ups/tree/main/TryHackMe)
-<!-- Add more as your collection grows: -->
-- 🎯 [Hack The Box](#) *(coming soon)*
-- 🧩 [Miscellaneous Challenges](#) *(coming soon)*

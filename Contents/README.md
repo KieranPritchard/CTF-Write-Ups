@@ -1,12 +1,4 @@
-# TryHackMe Write-Ups
-
-Welcome to the TryHackMe section of my CTF write-ups repository. Here you'll find detailed walkthroughs of rooms I've completed on the TryHackMe platform, showcasing various skills in offensive security, enumeration, exploitation, privilege escalation, and more.
-
-These write-ups are created for educational purposes and to track my progress on the platform.
-
----
-
-## 📂 Index of Rooms
+# 📂 Index of Rooms
 
 | Room Name | Category | Date | Difficulty | Write-Up |
 |-----------|----------|------------|----------|----------|
@@ -21,26 +13,3 @@ These write-ups are created for educational purposes and to track my progress on
 |Agent Sudo| Web App & Privalage Escalation| 26/7/2025|Easy|[Click Here](https://github.com/KieranPritchard/CTF-Write-Ups/edit/main/TryHackMe/Agent_Sudo/README.md)|
 |Anthem|Web App, Privalage Escalation and Windows| 04/08/2025/|Easy|[Click Here](https://github.com/KieranPritchard/CTF-Write-Ups/edit/main/TryHackMe/Anthem/README.md)
 | _More coming soon..._ | – | – | – | 🚧 |
-
----
-
-## 🔧 Tools Frequently Used
-
-- `nmap`,
-- `gobuster`
-- `hydra`
-- `gtfoblins`
-- `exploit-db`
-
----
-
-## ⚠️ Disclaimer
-
-These write-ups are for **educational purposes only**. Do not attempt to use any techniques described here on systems without proper authorization.
-
----
-
-## 🔗 TryHackMe Profile
-
-📌 [My TryHackMe Profile](https://tryhackme.com/p/NightProxy)
-
