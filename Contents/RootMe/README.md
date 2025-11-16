@@ -2,7 +2,7 @@
 
 - **CTF Name: Try Hack ME**
 - **Challenge Name: Root Me**
-- **Category: Privilege Escalation / Web Exploitation**
+- **Category: Privilege Escalatio**
 - **Points: 210**
 - **Difficulty: Easy**
 
