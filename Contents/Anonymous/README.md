@@ -1,6 +1,6 @@
 # 📌 Challenge Info
 
-- **CTF Name: Try Hack Me**
+- **CTF Name: TryHackMe**
 - **Challenge Name:** Anonymous
 - **Category:** Linux
 - **Points: 210**
