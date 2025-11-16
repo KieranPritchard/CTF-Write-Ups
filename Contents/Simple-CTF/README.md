@@ -2,7 +2,7 @@
 
 - **CTF Name: Try Hack Me**
 - **Challenge Name: Simple CTF**
-- **Category: Web App**
+- **Category: Web Application**
 - **Points: 300**
 - **Difficulty: Easy**
 
