@@ -2,7 +2,7 @@
 
 - **CTF Name: Try Hack Me**
 - **Challenge Name: Agent Sudo**
-- **Category: Web Application and Privalge Escalation**
+- **Category: Web Application**
 - **Points: 150**
 - **Difficulty: Easy**
 
