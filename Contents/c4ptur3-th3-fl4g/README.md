@@ -1,6 +1,6 @@
 # 📌 Challenge Info
 
-- **CTF Name: Try Hack Me: c4ptur3-th3-fl4g**
+- **CTF Name: TryHackMe**
 - **Challenge Name: c4ptur3-th3-fl4g**
 - **Category: Cryptography/Steganography**
 - **Points: 150**
