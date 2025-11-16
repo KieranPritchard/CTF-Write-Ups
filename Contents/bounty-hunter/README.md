@@ -2,7 +2,7 @@
 
 - **CTF Name: Try Hack Me**
 - **Challenge Name:** Bounty Hunter
-- **Category: Web App**
+- **Category: Web Application**
 - **Points: 150**
 - **Difficulty: Easy**
 
