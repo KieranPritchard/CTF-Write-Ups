@@ -2,7 +2,7 @@
 
 - **CTF Name:** Try Hack Me
 - **Challenge Name:** LazyAdmin
-- **Category:** Web Application, Linux, Privilege Escalation
+- **Category:** Web Application
 - **Points:** 150
 - **Difficulty:** Easy
 
