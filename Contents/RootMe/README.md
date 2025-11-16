@@ -1,6 +1,6 @@
 # 📌 Challenge Info
 
-- **CTF Name: Try Hack ME**
+- **CTF Name: TryHackME**
 - **Challenge Name: Root Me**
 - **Category: Privilege Escalatio**
 - **Points: 210**
