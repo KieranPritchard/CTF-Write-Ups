@@ -2,7 +2,7 @@
 
 - **CTF Name:** Try Hack Me
 - **Challenge Name:** Anthem
-- **Category:** Web Application, Windows, Privilege Escalation
+- **Category:** Windows
 - **Points:** 150
 - **Difficulty:** Easy
 
