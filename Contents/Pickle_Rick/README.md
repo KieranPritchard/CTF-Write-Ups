@@ -101,3 +101,20 @@ Flag Three: fleeb juice
 - Inspect everything: page source, comments, and simple files often contain direct hints.
 
 # 📷 Screenshots (Optional)
+
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_1.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_2.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_3.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_4.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_5.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_6.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_7.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_8.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_9.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_10.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_11.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_12.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_13.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_14.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_15.png">
+<img src="https://github.com/KieranPritchard/CTF-Write-Ups/blob/main/Contents/Pickle_Rick/Pickle_Rick_Screenshot_16.png">
